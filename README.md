@@ -1,5 +1,5 @@
 # data_analysis_with_python
-Course offered by IBM for Data Science Professional Certificate
+Course offered by IBM for Data Science Professional Certificate.
 
 # How I successfully completed the Data Analysis with Python offered by IBM:
 
